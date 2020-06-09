@@ -1,18 +1,6 @@
 # bbqmeter-web-site
 First Web site in github
-gitGraph:
-options
-{
-    "nodeSpacing": 150,
-    "nodeRadius": 10
-}
-end
-commit
-branch newbranch
-checkout newbranch
-commit
-commit
-checkout master
-commit
-commit
-merge newbranch
+
+ - [X] list1 
+ - [X] list2 
+ - [X] list3 
